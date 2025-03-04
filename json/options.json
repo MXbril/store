@@ -1,0 +1,17 @@
+{
+  "navigation": [
+    { "text": "Ofertas", "linkTo": "./outlet.html" },
+    { "text": "Cómo comprar", "linkTo": "./how.html" },
+    { "text": "Costos y tarifas", "linkTo": "./taxs.html" },
+    { "text": "Mis pedidos", "linkTo": "./orders.html" },
+    { "text": "Garantía", "linkTo": "./warranty.html" }
+  ],
+  "footer": [
+    { "text": "Ofertas", "linkTo": "./outlet.html", "opts": ["Laptops", "Audio", "Auticulares"] },
+    { "text": "Cómo comprar", "linkTo": "./how.html", "opts": ["Formas de pago", "Envios", "Devoluciones"] },
+    { "text": "Costos y tarifas", "linkTo": "./taxs.html", "opts": ["Impuestos", "Facturación"] },
+    { "text": "Mis pedidos", "linkTo": "./orders.html", "opts": ["Pedir nuevamente", "Lista de deseos"] },
+    { "text": "Garantía", "linkTo": "./warranty.html", "opts": [] }
+  ],
+  "copyright": "Copyright © 2024 Mi Empresa Cursos"
+}

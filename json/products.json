@@ -1,0 +1,81 @@
+{
+  "products": [
+    {
+      "id": "MacbookPro",
+      "title": "Macbook Pro 15'4",
+      "price": 750,
+      "stock": 10,
+      "discount": "50% Off",
+      "images": ["assets/mock1.jpg", "assets/mock2.jpg"],
+      "supplier": "Mac",
+      "color": ["Space Gray", "Black"],
+      "description": "El MacBook Pro de 15.4\" es una computadora portátil premium de Apple, conocida por su potencia, pantalla de alta resolución y diseño delgado. Ideal para profesionales creativos y usuarios exigentes."
+    },
+    {
+      "id": "J00Macbook",
+      "title": "Laptop Asus Gamer",
+      "price": 650,
+      "stock": 12,
+      "discount": "30% Off",
+      "images": ["assets/mock2.jpg", "assets/mock1.jpg"],
+      "supplier": "Lenovo",
+      "color": ["Space Black", "Space Gray", "Space Green", "Space Blue"],
+      "description": "Una laptop negra es elegante y moderna, con un diseño minimalista y profesional. La carcasa, el teclado y la pantalla son de color negro, ofreciendo un aspecto sofisticado. Es funcional y fácil de usar, ideal para cualquier situación."
+    },
+    {
+      "id": "MacbookP",
+      "title": "Laptop MSI",
+      "price": 750,
+      "stock": 11,
+      "discount": "50% Off",
+      "images": ["assets/laptop-2.png"],
+      "supplier": "Mac",
+      "color": ["Space Gray"],
+      "description": "El MacBook Pro de 15.4\" es una computadora portátil premium de Apple, conocida por su potencia, pantalla de alta resolución y diseño delgado. Ideal para profesionales creativos y usuarios exigentes."
+    },
+    {
+      "id": "Macboo",
+      "title": "MacBook Air",
+      "price": 750,
+      "stock": 14,
+      "discount": "50% Off",
+      "images": ["assets/mock1.jpg"],
+      "supplier": "Mac",
+      "color": ["Space Gray"],
+      "description": "El MacBook Pro de 15.4\" es una computadora portátil premium de Apple, conocida por su potencia, pantalla de alta resolución y diseño delgado. Ideal para profesionales creativos y usuarios exigentes."
+    },
+    {
+      "id": "MacbookPr",
+      "title": "Macbook Pro 15'4",
+      "price": 750,
+      "stock": 10,
+      "discount": "50% Off",
+      "images": ["assets/mock1.jpg"],
+      "supplier": "Mac",
+      "color": ["Space Gray"],
+      "description": "El MacBook Pro de 15.4\" es una computadora portátil premium de Apple, conocida por su potencia, pantalla de alta resolución y diseño delgado. Ideal para profesionales creativos y usuarios exigentes."
+    },
+    {
+      "id": "Macbo",
+      "title": "Macbook Pro 15'4",
+      "price": 750,
+      "stock": 15,
+      "discount": "50% Off",
+      "images": ["assets/mock1.jpg"],
+      "supplier": "Mac",
+      "color": ["Space Gray"],
+      "description": "El MacBook Pro de 15.4\" es una computadora portátil premium de Apple, conocida por su potencia, pantalla de alta resolución y diseño delgado. Ideal para profesionales creativos y usuarios exigentes."
+    },
+    {
+      "id": "Macbo002",
+      "title": "Macbook Pro 15'4",
+      "price": 750,
+      "stock": 15,
+      "discount": "50% Off",
+      "images": ["assets/mock1.jpg"],
+      "supplier": "Mac",
+      "color": ["Space Gray"],
+      "description": "El MacBook Pro de 15.4\" es una computadora portátil premium de Apple, conocida por su potencia, pantalla de alta resolución y diseño delgado. Ideal para profesionales creativos y usuarios exigentes."
+    }
+  ]
+}
